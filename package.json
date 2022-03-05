@@ -1,5 +1,14 @@
 {
-  "dependencies": {
-    "node-persist": "^0.0.8"
-  }
+    "name": "nodejs-learn",
+    "version": "1.0.0",
+    "description": "Project Learn Nodejs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "nguyenducmy393@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "node-persist": "^0.0.8"
+    }
 }
